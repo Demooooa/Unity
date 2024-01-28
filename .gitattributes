@@ -1,0 +1,4 @@
+UnityAndroid调用 filter=lfs diff=lfs merge=lfs -text
+UnityAndroid调试 filter=lfs diff=lfs merge=lfs -text
+WebGL打包 filter=lfs diff=lfs merge=lfs -text
+安卓打包 filter=lfs diff=lfs merge=lfs -text
